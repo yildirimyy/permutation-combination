@@ -3,15 +3,15 @@
 * Permütasyon bir kümedeki/listedeki elemanların (n) bir kere ya da daha fazla tekrar edildiği (r) sıralı bir dizidir. 
 * Kombinasyon n elemanlı bir kümede oluşturulabilen grupların her biridir. 
 
-** -Permütasyon ve Kombinasyon arasındaki en önemli fark SIRALAMADIR- **
+**Permütasyon ve Kombinasyon arasındaki en önemli fark SIRALAMADIR**
 
-== Permütasyonda seçme sırası önemlidir ancak Kombinasyonda sıra önemli değildir, seçme işlemi vardır ==
+**Permütasyonda seçme sırası önemlidir ancak Kombinasyonda sıra önemli değildir, seçme işlemi vardır **
 
 
 ![https://raw.githubusercontent.com/yildirimyy/permutation-combination/master/screen/foto1.jpeg](https://raw.githubusercontent.com/yildirimyy/permutation-combination/master/screen/foto1.jpeg) 
 
 
-## Örnek: 5 kitaptan 3 tanesi seçilip bir rafa yerleştirilecektir. Kaç farklı şekilde == dizilim == yapılabilir?
+## Örnek: 5 kitaptan 3 tanesi seçilip bir rafa yerleştirilecektir. Kaç farklı şekilde *dizilim* yapılabilir?
 
 #### Cevap:
 ```
@@ -35,7 +35,7 @@ Buna göre 5 elemanlı A kümesinin 3 elemanlı alt kümelerinin tamamından a v
 P(5,3) - P(3,3) = 60-6 = 54
 ```
 
-## Örnek: 8 kişi arasından kurulacak 6 kişilik takım == kaç farklı şekilde == seçilebilir?
+## Örnek: 8 kişi arasından kurulacak 6 kişilik takım *kaç farklı şekilde* seçilebilir?
 
 #### Cevap: 
 
@@ -64,6 +64,6 @@ n elemanlı bir listenin n! adet permütasyonu olur.
 ![https://raw.githubusercontent.com/yildirimyy/permutation-combination/master/screen/foto2.png](https://raw.githubusercontent.com/yildirimyy/permutation-combination/master/screen/foto2.png) 
 
 
-##Soru: {1,2,3} ve {A,B,C}'nin 2'li kombinasyonları:
+## Soru: {1,2,3} ve {A,B,C}'nin 2'li kombinasyonları:
 
 ![https://raw.githubusercontent.com/yildirimyy/permutation-combination/master/screen/ekran2.png](https://raw.githubusercontent.com/yildirimyy/permutation-combination/master/screen/ekran2.png) 
