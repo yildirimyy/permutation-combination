@@ -5,7 +5,7 @@
 
 **Permütasyon ve Kombinasyon arasındaki en önemli fark SIRALAMADIR**
 
-**Permütasyonda seçme sırası önemlidir ancak Kombinasyonda sıra önemli değildir, seçme işlemi vardır **
+**Permütasyonda seçme sırası önemlidir ancak Kombinasyonda sıra önemli değildir, seçme işlemi vardır**
 
 
 ![https://raw.githubusercontent.com/yildirimyy/permutation-combination/master/screen/foto1.jpeg](https://raw.githubusercontent.com/yildirimyy/permutation-combination/master/screen/foto1.jpeg) 
